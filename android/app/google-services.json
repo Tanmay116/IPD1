@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "499210560498",
+    "project_id": "ipd1-70d9a",
+    "storage_bucket": "ipd1-70d9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499210560498:android:27a0fb35e3e61d85cb816b",
+        "android_client_info": {
+          "package_name": "com.example.ipd1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8cBFPuYk272rNLNcr3Z4WvvFxYs7NFaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
